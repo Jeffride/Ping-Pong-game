@@ -14,7 +14,7 @@ bumper_width = 20
 bumper_height = 60
 pygame.init()
 
-derek = pygame.image.load('derek.png')
+
 class Ball:
     def __init__(self):
         self.x = 0
